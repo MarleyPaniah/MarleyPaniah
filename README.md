@@ -2,7 +2,7 @@ Software Engineer specialized in telecommunications but who still has a lot of r
 
 ### Worked with: 
 - Linux and Windows environments
-- Start-uos
+- Start-ups
 - Big tech companies
 - Fintechs
 - A cold
@@ -17,14 +17,16 @@ Software Engineer specialized in telecommunications but who still has a lot of r
 - C
 
 ### Is learning:
+- Flutter
 - React Native fw.
 - Angular fw.
 - Golang
 - How to be happy
 
-### Is interested in:
+### Is interested in learning:
 - C#
-- Creating an ML-based app
+- Rust
+- How to create an ML-based app
 
 ### Has tried/Small experience in:
 - Pytorch fw.
