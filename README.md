@@ -1,4 +1,4 @@
-Software Engineer specialized in telecommunications but who still has a lot of room to improve his programming.
+Software Engineer with a degree in telecommunications.
 
 ### Worked with: 
 - Linux and Windows environments
@@ -12,12 +12,10 @@ Software Engineer specialized in telecommunications but who still has a lot of r
 - Javascript and Node-Red fw.
 - Arduino
 - Big Data Platforms
-- Advanced ML algos
-- Karate
-- C
+- ML algos
 
 ### Is learning:
-- Flutter
+- Rust
 - React Native fw.
 - Angular fw.
 - Golang
@@ -25,7 +23,6 @@ Software Engineer specialized in telecommunications but who still has a lot of r
 
 ### Is interested in learning:
 - C#
-- Rust
 - How to create an ML-based app
 
 ### Has tried/Small experience in:
