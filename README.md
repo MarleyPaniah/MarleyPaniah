@@ -9,6 +9,8 @@ Software Engineer with a degree in telecommunications.
 
 ### Has experience in:
 - Python
+- ClickHouse
+- OpenTelemetry
 - Javascript and Node-Red fw.
 - Arduino
 - Big Data Platforms
